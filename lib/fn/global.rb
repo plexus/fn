@@ -1,0 +1,3 @@
+require "fn"
+
+include Fn
